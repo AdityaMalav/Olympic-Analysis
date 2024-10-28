@@ -1,4 +1,3 @@
-pip install altair==4.2.2
 import streamlit as st
 import pandas as pd
 import  preprocessor, helper
